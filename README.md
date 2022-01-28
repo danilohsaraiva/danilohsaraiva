@@ -1,7 +1,7 @@
 ### Olá, Danilo aqui!
 
 - 🔭 Hoje trabalho na empresa JBS (sem relação com TI)
-- 🌱 Desenvolvendo hard skills voltadas a programação
+- 🌱 Desenvolvendo hard skills 
 
 
 <div>
@@ -14,5 +14,5 @@
 <div>
   <a href="https://www.linkedin.com/in/danilo-saraiva-70b18a223" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/danilohsaraiva" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <img height="150em" alt="NoGame" src="https://33.media.tumblr.com/ea70d7d8aa20d84416884327076d6909/tumblr_n7qtoxBGiN1s3dw0xo1_500.gif">
+  <img height="115em" alt="NoGame" src="https://33.media.tumblr.com/ea70d7d8aa20d84416884327076d6909/tumblr_n7qtoxBGiN1s3dw0xo1_500.gif">
   </div>
