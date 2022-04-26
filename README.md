@@ -9,9 +9,10 @@
     <img height="138em" src="https://github-readme-stats.vercel.app/api?username=danilohsaraiva&show-icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
     
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilohsaraiva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+     
 <div>
     <img height="75em" alt="NoGame" src="https://33.media.tumblr.com/ea70d7d8aa20d84416884327076d6909/tumblr_n7qtoxBGiN1s3dw0xo1_500.gif">
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilohsaraiva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-### Apaixonado por conhecimento.
