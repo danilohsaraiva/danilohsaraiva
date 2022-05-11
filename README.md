@@ -1,10 +1,10 @@
-### Hello, World!
-<div>
+<h1 align="center"> Hello, World! </h1>
+<div align="center">
   <a href="https://www.linkedin.com/in/danilohsaraiva" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/danilohsaraiva" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<div>
+<div align="center">
     <a href="htrps://beacons.ai/danilohsaraiva">
     <img height="138em" src="https://github-readme-stats.vercel.app/api?username=danilohsaraiva&show-icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
     
